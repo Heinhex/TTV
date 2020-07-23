@@ -2171,3 +2171,414 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.23-16.30.09:217][219]LogContentValidation: Display: Validating Material /Game/Mesh_1/Objects_char/Material/fiin_mat.fiin_mat
 [2020.07.23-16.30.09:217][219]LogContentValidation: Display: Validating Material /Game/Mesh_1/Objects_char/Material/statue_Mat.statue_Mat
 [2020.07.23-16.30.09:217][219]LogContentValidation: Display: Validating Material /Game/textures/Акула/Shark_material.Shark_material
+[2020.07.23-16.53.40:944][601]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-16.53.40:944][601]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-17.37.24:408][513]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-17.37.24:409][513]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-18.12.06:401][790]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.07.23-19.10.16:860][318]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-19.10.16:860][318]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-20.25.47:718][805]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-20.25.47:718][805]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.23-20.26.19:432][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_21)
+[2020.07.23-20.26.31:261][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_4)
+[2020.07.23-20.26.41:357][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_5)
+[2020.07.23-20.26.45:502][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_20)
+[2020.07.23-20.26.46:787][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_22)
+[2020.07.23-20.26.56:858][139]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust42)
+[2020.07.23-20.26.59:435][439]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust43)
+[2020.07.23-20.27.04:438][985]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust39)
+[2020.07.23-20.27.07:778][345]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust41)
+[2020.07.23-20.27.10:774][684]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust38)
+[2020.07.23-20.27.14:503][104]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust40)
+[2020.07.23-20.27.19:709][650]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust15)
+[2020.07.23-20.27.25:024][204]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust17)
+[2020.07.23-20.27.29:940][728]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust9)
+[2020.07.23-20.27.32:647][ 16]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust13)
+[2020.07.23-20.27.33:324][ 92]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust11)
+[2020.07.23-20.27.36:024][404]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust13)
+[2020.07.23-20.27.38:780][726]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust10)
+[2020.07.23-20.27.46:359][546]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust14)
+[2020.07.23-20.27.54:956][504]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust22)
+[2020.07.23-20.27.58:347][904]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust23)
+[2020.07.23-20.28.01:859][303]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust20)
+[2020.07.23-20.28.12:454][550]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust18)
+[2020.07.23-20.28.20:936][513]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust21)
+[2020.07.23-20.28.34:674][ 75]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust22)
+[2020.07.23-20.28.35:237][139]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust23)
+[2020.07.23-20.28.45:839][320]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust8)
+[2020.07.23-20.28.47:466][494]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust7)
+[2020.07.23-20.28.50:433][833]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust8)
+[2020.07.23-20.28.56:811][563]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust2)
+[2020.07.23-20.28.58:796][791]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust)
+[2020.07.23-20.29.01:301][ 85]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust6)
+[2020.07.23-20.29.03:545][349]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust4)
+[2020.07.23-20.29.09:751][ 12]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust36)
+[2020.07.23-20.29.11:496][203]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust37)
+[2020.07.23-20.29.13:512][437]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust35)
+[2020.07.23-20.29.15:358][650]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust25)
+[2020.07.23-20.29.19:124][ 38]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust24)
+[2020.07.23-20.29.21:816][336]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust33)
+[2020.07.23-20.29.25:120][700]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust34)
+[2020.07.23-20.29.26:821][882]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust26)
+[2020.07.23-20.29.29:829][236]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust28)
+[2020.07.23-20.29.33:759][680]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust29)
+[2020.07.23-20.29.36:167][951]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust25)
+[2020.07.23-20.29.36:873][ 32]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust27)
+[2020.07.23-20.29.38:391][207]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust31)
+[2020.07.23-20.29.40:129][402]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust32)
+[2020.07.23-20.29.49:468][469]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka11)
+[2020.07.23-20.29.58:015][345]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust130)
+[2020.07.23-20.30.00:637][601]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust45)
+[2020.07.23-20.30.02:491][816]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust48)
+[2020.07.23-20.30.04:188][ 14]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust177)
+[2020.07.23-20.30.08:195][484]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust47)
+[2020.07.23-20.30.12:969][ 15]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust49)
+[2020.07.23-20.30.19:277][707]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust54)
+[2020.07.23-20.30.21:228][930]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust44)
+[2020.07.23-20.30.23:024][139]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust46)
+[2020.07.23-20.30.24:508][308]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust52)
+[2020.07.23-20.30.25:684][445]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust52)
+[2020.07.23-20.30.27:865][702]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust55)
+[2020.07.23-20.30.30:471][  8]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust53)
+[2020.07.23-20.30.33:740][394]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust58)
+[2020.07.23-20.30.36:543][724]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust59)
+[2020.07.23-20.30.38:923][  3]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust57)
+[2020.07.23-20.30.44:899][682]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust56)
+[2020.07.23-20.30.50:010][248]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust61)
+[2020.07.23-20.30.52:753][563]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust60)
+[2020.07.23-20.30.57:794][132]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust62)
+[2020.07.23-20.31.00:464][446]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust63)
+[2020.07.23-20.31.07:174][221]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust69)
+[2020.07.23-20.31.10:160][564]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust68)
+[2020.07.23-20.31.13:047][904]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust66)
+[2020.07.23-20.31.16:294][288]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust67)
+[2020.07.23-20.31.20:840][826]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust65)
+[2020.07.23-20.31.23:564][147]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust64)
+[2020.07.23-20.31.28:366][691]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust70)
+[2020.07.23-20.31.30:138][876]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust72)
+[2020.07.23-20.31.33:061][221]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust79)
+[2020.07.23-20.31.33:784][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_Down)
+[2020.07.23-20.31.34:309][359]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust76)
+[2020.07.23-20.31.37:119][688]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust74)
+[2020.07.23-20.31.37:826][769]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust75)
+[2020.07.23-20.31.40:309][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_Down)
+[2020.07.23-20.31.40:757][108]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust77)
+[2020.07.23-20.31.44:634][551]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust71)
+[2020.07.23-20.31.46:358][740]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust74)
+[2020.07.23-20.31.47:117][827]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust73)
+[2020.07.23-20.31.49:543][ 88]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust82)
+[2020.07.23-20.31.53:360][533]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust85)
+[2020.07.23-20.31.56:084][836]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust87)
+[2020.07.23-20.31.57:840][ 25]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust86)
+[2020.07.23-20.32.00:635][354]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust83)
+[2020.07.23-20.32.03:170][652]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust84)
+[2020.07.23-20.32.07:936][178]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust80)
+[2020.07.23-20.32.09:923][403]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust81)
+[2020.07.23-20.32.26:339][102]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust149)
+[2020.07.23-20.32.34:400][909]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust150)
+[2020.07.23-20.32.36:934][205]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust147)
+[2020.07.23-20.32.38:946][440]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust148)
+[2020.07.23-20.32.42:855][876]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust143)
+[2020.07.23-20.32.44:877][112]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust141)
+[2020.07.23-20.32.46:696][325]Cmd: TRANSACTION UNDO
+[2020.07.23-20.32.46:696][325]LogEditorTransaction: Undo Rotate Actors
+[2020.07.23-20.32.50:393][699]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust145)
+[2020.07.23-20.32.51:102][768]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust146)
+[2020.07.23-20.32.53:822][ 88]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust144)
+[2020.07.23-20.32.54:820][204]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust144)
+[2020.07.23-20.33.01:042][916]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust159)
+[2020.07.23-20.33.05:444][382]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust160)
+[2020.07.23-20.33.07:778][656]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust166)
+[2020.07.23-20.33.10:952][ 29]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust165)
+[2020.07.23-20.33.15:966][577]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust161)
+[2020.07.23-20.33.19:560][987]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust163)
+[2020.07.23-20.33.22:720][354]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust162)
+[2020.07.23-20.33.25:067][626]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust164)
+[2020.07.23-20.33.29:566][132]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust156)
+[2020.07.23-20.33.31:502][333]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust153)
+[2020.07.23-20.33.33:281][540]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust154)
+[2020.07.23-20.33.35:054][747]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust155)
+[2020.07.23-20.33.37:425][  8]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust158)
+[2020.07.23-20.33.39:247][207]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust152)
+[2020.07.23-20.33.41:174][432]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust157)
+[2020.07.23-20.33.44:201][764]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust151)
+[2020.07.23-20.33.47:538][138]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust176)
+[2020.07.23-20.33.49:490][359]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust175)
+[2020.07.23-20.33.51:277][568]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust172)
+[2020.07.23-20.33.53:351][811]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust173)
+[2020.07.23-20.33.55:559][ 70]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust172)
+[2020.07.23-20.33.56:416][169]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust174)
+[2020.07.23-20.33.58:777][433]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust169)
+[2020.07.23-20.34.00:565][620]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust168)
+[2020.07.23-20.34.01:398][716]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust170)
+[2020.07.23-20.34.03:275][935]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust167)
+[2020.07.23-20.34.05:155][154]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust168)
+[2020.07.23-20.34.15:141][245]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust134)
+[2020.07.23-20.34.17:759][521]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust132)
+[2020.07.23-20.34.19:675][744]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust135)
+[2020.07.23-20.34.21:764][987]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust138)
+[2020.07.23-20.34.24:112][262]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust132)
+[2020.07.23-20.34.25:042][369]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust136)
+[2020.07.23-20.34.27:200][621]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust140)
+[2020.07.23-20.34.29:415][880]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust133)
+[2020.07.23-20.34.30:225][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.34.30:752][ 29]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust137)
+[2020.07.23-20.34.32:642][246]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust139)
+[2020.07.23-20.34.41:619][215]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust129)
+[2020.07.23-20.34.49:265][101]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust125)
+[2020.07.23-20.34.52:899][519]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust122)
+[2020.07.23-20.34.57:314][ 41]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust128)
+[2020.07.23-20.35.00:038][362]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust121)
+[2020.07.23-20.35.02:051][598]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust127)
+[2020.07.23-20.35.06:859][150]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust120)
+[2020.07.23-20.35.08:515][324]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust119)
+[2020.07.23-20.35.10:168][516]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust117)
+[2020.07.23-20.35.12:600][802]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust115)
+[2020.07.23-20.35.14:056][971]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust113)
+[2020.07.23-20.35.15:535][143]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust114)
+[2020.07.23-20.35.17:282][347]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust118)
+[2020.07.23-20.35.19:402][595]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust116)
+[2020.07.23-20.35.22:483][934]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust94)
+[2020.07.23-20.35.25:089][223]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust93)
+[2020.07.23-20.35.26:839][427]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust92)
+[2020.07.23-20.35.28:702][645]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust91)
+[2020.07.23-20.35.30:316][833]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust89)
+[2020.07.23-20.35.35:943][500]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust90)
+[2020.07.23-20.35.37:687][704]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust88)
+[2020.07.23-20.35.42:287][226]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust104)
+[2020.07.23-20.35.47:605][843]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust101)
+[2020.07.23-20.35.49:763][ 96]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust100)
+[2020.07.23-20.35.53:626][553]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust102)
+[2020.07.23-20.35.56:164][852]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust97)
+[2020.07.23-20.35.58:426][117]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust95)
+[2020.07.23-20.35.59:735][268]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust103)
+[2020.07.23-20.36.00:485][354]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust95)
+[2020.07.23-20.36.03:836][750]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust96)
+[2020.07.23-20.36.04:457][821]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust99)
+[2020.07.23-20.36.14:844][949]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust112)
+[2020.07.23-20.36.21:585][716]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust111)
+[2020.07.23-20.36.25:483][146]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust108)
+[2020.07.23-20.36.31:519][806]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust105)
+[2020.07.23-20.36.33:799][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.36.35:279][216]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust109)
+[2020.07.23-20.36.37:204][420]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust110)
+[2020.07.23-20.36.41:923][954]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust107)
+[2020.07.23-20.36.44:192][211]LogEditorViewport: Clicking on Actor (LMB): Kust_C (Kust106)
+[2020.07.23-20.37.32:560][199]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall12)
+[2020.07.23-20.37.38:106][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.37.38:672][908]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall13)
+[2020.07.23-20.37.47:848][981]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall9)
+[2020.07.23-20.37.49:840][189]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall8)
+[2020.07.23-20.37.54:210][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.37.54:819][739]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall6)
+[2020.07.23-20.37.58:738][202]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall5)
+[2020.07.23-20.38.00:353][390]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall2)
+[2020.07.23-20.38.02:151][600]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall7)
+[2020.07.23-20.38.03:821][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.38.04:568][878]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall3)
+[2020.07.23-20.38.06:542][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.38.07:155][174]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall4)
+[2020.07.23-20.38.10:934][594]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall)
+[2020.07.23-20.38.15:914][ 89]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall10)
+[2020.07.23-20.38.20:689][517]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall11)
+[2020.07.23-20.38.25:755][972]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall14)
+[2020.07.23-20.38.32:403][714]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka6)
+[2020.07.23-20.38.36:112][129]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka4)
+[2020.07.23-20.38.39:037][416]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka3)
+[2020.07.23-20.38.40:975][613]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka)
+[2020.07.23-20.38.45:732][103]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka7)
+[2020.07.23-20.38.48:180][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_UP)
+[2020.07.23-20.38.49:076][435]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka8)
+[2020.07.23-20.38.52:532][808]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka9)
+[2020.07.23-20.38.54:718][ 62]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka10)
+[2020.07.23-20.38.59:204][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_44)
+[2020.07.23-20.39.02:784][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_33)
+[2020.07.23-20.39.08:501][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_78)
+[2020.07.23-20.39.10:701][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_27)
+[2020.07.23-20.39.12:408][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_28)
+[2020.07.23-20.39.16:260][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_32)
+[2020.07.23-20.39.17:069][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_30)
+[2020.07.23-20.39.27:985][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_32)
+[2020.07.23-20.39.36:666][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_38)
+[2020.07.23-20.39.39:347][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_37)
+[2020.07.23-20.39.44:567][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_45)
+[2020.07.23-20.40.05:466][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_10)
+[2020.07.23-20.40.08:440][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_7)
+[2020.07.23-20.40.11:123][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_9)
+[2020.07.23-20.40.12:679][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_8)
+[2020.07.23-20.40.14:711][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (All_Rock_6)
+[2020.07.23-20.40.37:906][609]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall20)
+[2020.07.23-20.40.39:714][777]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall19)
+[2020.07.23-20.40.42:172][997]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall18)
+[2020.07.23-20.40.45:859][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_Down)
+[2020.07.23-20.40.46:437][379]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall15)
+[2020.07.23-20.40.47:191][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Core_Ground_Down)
+[2020.07.23-20.40.47:844][515]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall15)
+[2020.07.23-20.40.52:344][957]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall16)
+[2020.07.23-20.40.56:915][457]LogEditorViewport: Clicking on Actor (LMB): Korall_C (Korall21)
+[2020.07.23-20.40.59:692][761]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka21)
+[2020.07.23-20.41.01:196][925]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka18)
+[2020.07.23-20.41.03:783][229]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka19)
+[2020.07.23-20.41.05:302][405]LogEditorViewport: Clicking on Actor (LMB): Boshka_C (Boshka20)
+[2020.07.23-20.41.22:614][106]MapCheck: New page: Map Check
+[2020.07.23-20.41.22:630][106]LightingResults: New page: Lighting Build - 24 июл. 2020 г., 02:41:22
+[2020.07.23-20.41.22:648][106]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.23-20.41.22:659][106]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.23-20.41.22:659][106]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.23-20.41.22:660][106]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.23-20.41.22:660][106]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12800
+[2020.07.23-20.41.27:614][106]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.07.23-20.41.27:614][106]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.23-20.41.27:614][106]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.23-20.41.27:614][106]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.23-20.41.27:614][106]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.23-20.41.27:614][106]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.23-20.41.27:802][106]LogEditorBuildUtils: Build time 0:05
+[2020.07.23-20.41.27:808][106]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 2071_Mat, compiling. 
+[2020.07.23-20.41.27:811][106]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 2071_Mat, compiling. 
+[2020.07.23-20.41.27:814][106]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer yGRghjIhd5s_Mat, compiling. 
+[2020.07.23-20.41.27:817][106]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer yGRghjIhd5s_Mat, compiling. 
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2020.07.23-20.41.27:847][106]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.07.23-20.41.27:856][107]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer wallColumnSeaWeedFin_Mat, compiling. 
+[2020.07.23-20.41.27:860][107]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer wallColumnSeaWeedFin_Mat, compiling. 
+[2020.07.23-20.41.27:864][107]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GlassWall_000_Mat, compiling. 
+[2020.07.23-20.41.27:867][107]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GlassWall_000_Mat, compiling. 
+[2020.07.23-20.41.27:971][107]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2020.07.23-20.41.27:971][107]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2020.07.23-20.41.27:971][107]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2020.07.23-20.41.27:971][107]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2020.07.23-20.41.28:100][108]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer hotpng_com_Mat, compiling. 
+[2020.07.23-20.41.28:103][108]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer hotpng_com_Mat, compiling. 
+[2020.07.23-20.41.28:106][108]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer statue_Mat, compiling. 
+[2020.07.23-20.41.28:109][108]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer statue_Mat, compiling. 
+[2020.07.23-20.41.28:150][109]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BarrelCorralShip_Mat, compiling. 
+[2020.07.23-20.41.28:154][109]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BarrelCorralShip_Mat, compiling. 
+[2020.07.23-20.41.28:158][109]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Shark_material, compiling. 
+[2020.07.23-20.41.28:162][109]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Shark_material, compiling. 
+[2020.07.23-20.41.28:176][110]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer fiin_mat, compiling. 
+[2020.07.23-20.41.28:179][110]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer fiin_mat, compiling. 
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2020.07.23-20.41.31:326][111]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.07.23-20.41.31:897][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.07.23-20.41.34:474][234]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.34:474][234]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.34:574][239]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.34:574][239]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.35:352][271]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.35:352][271]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.36:320][311]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.36:320][311]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.36:683][326]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.36:683][326]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.36:739][328]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.36:739][328]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.36:905][335]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.36:905][335]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:114][344]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.37:114][344]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:268][350]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.37:268][350]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:687][354]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.37:687][354]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:687][354]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.37:687][354]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:687][354]LightingResults: Warning: All__1__GlassWall_001 Object has overlapping UVs.
+[2020.07.23-20.41.37:687][354]LightingResults: All__1__GlassWall_001 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:687][354]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.37:687][354]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:687][354]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.37:687][354]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.37:687][354]LightingResults: Warning: All__1__GlassWall_001 Object has overlapping UVs.
+[2020.07.23-20.41.37:687][354]LightingResults: All__1__GlassWall_001 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.38:018][355]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.38:018][355]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.38:350][356]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.38:350][356]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.38:350][356]LightingResults: Warning: All__1__Column_004 Object has overlapping UVs.
+[2020.07.23-20.41.38:350][356]LightingResults: All__1__Column_004 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.23-20.41.38:687][357]Job is a success!
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.029s
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:          1: 5.1% covering 14.1% of volume
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:          2: 94.3% covering 4.1% of volume
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.23-20.41.39:198][358]LogVolumetricLightmapImport:          Magic_1_MAP2 			 176 bricks 	 100.0% (Persistent Level)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.07.23-20.41.40:209][358]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.07.23-20.41.40:210][358]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.07.23-20.41.40:210][358]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2020.07.23-20.41.40:210][358]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.07.23-20.41.40:210][358]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.07.23-20.41.40:423][358]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.07.23-20.41.40:423][358]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2020.07.23-20.41.40:423][358]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.07.23-20.41.40:431][358]LogStaticLightingSystem: Magic_1_MAP2_BuiltData storing lightmap data for 322 meshes in 8 LightmapResourceClusters (40.3 Meshes per cluster).
+[2020.07.23-20.41.40:434][358]Lightmass on DESKTOP-3FCDIUG: 8.04 sec total, 319 ms importing, 58 ms setup, 859 ms photons, 6.77 sec processing, 0 ms extra exporting [322/322 mappings]. Threads: 1:41 min total, 58.5 sec processing.
+[2020.07.23-20.41.40:463][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.23-20.41.40:489][358]LogStaticLightingSystem: Illumination: 17.5 sec (818 ms encoding lightmaps, 211 ms encoding shadowmaps)
+[2020.07.23-20.41.40:489][358]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.07.23-20.41.40:489][358]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.07.23-20.41.40:638][358]DumpUnbuiltLightIteractions
+[2020.07.23-20.41.40:638][358]Lights with unbuilt interactions: 0
+[2020.07.23-20.41.40:638][358]
+[2020.07.23-20.41.40:638][358]Primitives with unbuilt interactions: 0
+[2020.07.23-20.41.40:808][359]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.23-20.41.40:808][359]MapCheck: New page: Magic_1_MAP2 - 24 июл. 2020 г., 02:41:40
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: Plane_31 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: All_Sharky_153 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: All_Rock_001_156 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: All_Rock_000_159 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: All_Statue_000_194 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: Enemy_Ground_Rock Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: Fin_60 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: Fin2_66 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:809][359]MapCheck: Warning: Plane2 Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:811][359]MapCheck: Warning: All__1__Seaweed_1 All__1__Seaweed_1 is in the same location as All__1__Seaweed_18 
+[2020.07.23-20.41.40:811][359]MapCheck: Warning: All__1__Seaweed_18 All__1__Seaweed_18 is in the same location as All__1__Seaweed_1 
+[2020.07.23-20.41.40:812][359]MapCheck: Warning: All_Column_UP Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:812][359]MapCheck: Warning: All_Wall_UP Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:812][359]MapCheck: Warning: All_Column_Down Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:812][359]MapCheck: Warning: All_Wall_down Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:812][359]MapCheck: Warning: Player_Ground_Rock Static mesh actor has NULL StaticMesh property 
+[2020.07.23-20.41.40:812][359]MapCheck: Map check complete: 0 Error(s), 16 Warning(s), took 3,657ms to complete.
+[2020.07.23-20.42.23:729][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.07.23-20.42.23:750][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Magic_1_MAP2" FILE="C:/Users/Алексей/Downloads/TTV1/Prototype_Taptap/Content/Maps/Magic_1_MAP2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.23-20.42.23:770][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.07.23-20.42.23:970][683]LogSavePackage: Moving 'C:/Users/Алексей/Downloads/TTV1/Prototype_Taptap/Saved/Magic_1_MAP28E869C2E4FC87F01A9C413A069346EEB.tmp' to 'C:/Users/Алексей/Downloads/TTV1/Prototype_Taptap/Content/Maps/Magic_1_MAP2.umap'
+[2020.07.23-20.42.23:999][683]LogFileHelpers: Saving map 'Magic_1_MAP2' took 0.249
+[2020.07.23-20.42.23:999][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Magic_1_MAP2_BuiltData" FILE="C:/Users/Алексей/Downloads/TTV1/Prototype_Taptap/Content/Maps/Magic_1_MAP2_BuiltData.uasset" SILENT=true
+[2020.07.23-20.42.24:195][683]LogSavePackage: Moving 'C:/Users/Алексей/Downloads/TTV1/Prototype_Taptap/Saved/Magic_1_MAP2_BuiltDataBB8A304846284C61E6FC53B57CDDC443.tmp' to 'C:/Users/Алексей/Downloads/TTV1/Prototype_Taptap/Content/Maps/Magic_1_MAP2_BuiltData.uasset'
+[2020.07.23-20.42.24:215][683]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.23-20.42.24:215][683]LogContentValidation: Display: Validating World /Game/Maps/Magic_1_MAP2.Magic_1_MAP2
+[2020.07.23-20.42.24:215][683]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Magic_1_MAP2_BuiltData.Magic_1_MAP2_BuiltData
